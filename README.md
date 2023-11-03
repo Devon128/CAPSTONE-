@@ -7,4 +7,4 @@ We also did a lot more research on groundhogs.
 # Week 2 
 More research on the frequency side of things, and planning our design.
 # Week 3 
-Did more research and planned out our design.
+Did more research on the things we would need and talked to our mentor about some essential and non essential requirements. We drawed out some designs that we may use.
