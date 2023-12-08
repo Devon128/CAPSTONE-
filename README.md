@@ -23,3 +23,5 @@ But other than that everything else went fine, we fixed our problem and are just
 
 
 ![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/f2e1b868-44de-429c-acae-732c6baace4e)
+# Week 6 
+So we found out that we had to make some changes to our design, it was too small so we had to make it bigger by changing the height , width , length. We started coding and will continue to code next week. We are still trying to figure out if we should thicken the walls of our design in order to create the right sized holes for us to screw the walls together. We really don't have a plan , its more so just continuing to execute and keep this paste that we are moving at.
