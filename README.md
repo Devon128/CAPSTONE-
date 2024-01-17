@@ -23,3 +23,7 @@ But other than that everything else went fine, we fixed our problem and are just
 ![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/f2e1b868-44de-429c-acae-732c6baace4e)
 # Week 6 
 So we found out that we had to make some changes to our design, it was too small so we had to make it bigger by changing the height , width , length. We started coding and will continue to code next week. We are still trying to figure out if we should thicken the walls of our design in order to create the right sized holes for us to screw the walls together when it gets printed. We really don't have a plan , its more so just continuing to execute and keep this paste that we are moving at.
+
+
+# Week 8 or 9 
+Its a late update but we pretty much finished building the box and are currently making sure that are code is up to date and runs well and smooth. We took a while working on the box just trying to find out like how exatcly we should make it and how big we need it to be and also where we need to put the holes to screw the walls together. We chose to just put the walls together using brackets.
