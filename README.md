@@ -27,3 +27,7 @@ So we found out that we had to make some changes to our design, it was too small
 
 # Week 8 or 9 
 Its a late update but we pretty much finished building the box and are currently making sure that are code is up to date and runs well and smooth. We took a while working on the box just trying to find out like how exatcly we should make it and how big we need it to be and also where we need to put the holes to screw the walls together. We chose to just put the walls together using brackets.
+
+
+# Week 10 
+We laser cutted our pieces out and started to put our box together. We have some code that works now but we still need a little tab bit more. Everything is going accordingly to plan as long as we stay on track and continue to work at the paste that we are working at right now and by continuing to strive for greatness.
