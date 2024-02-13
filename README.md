@@ -33,3 +33,5 @@ Its a late update but we pretty much finished building the box and are currently
 We laser cutted our pieces out and started to put our box together. We have some code that works now but we still need a little tab bit more. Everything is going accordingly to plan as long as we stay on track and continue to work at the paste that we are working at right now and by continuing to strive for greatness.
 # Week 12
 We are still working on the code side of things, we're almsot fully done with our prototype. We also ran into a problem sort of kinda, we realized that our design is a little bit offset. So we have to make little fixes here and there when we start working on our final build.
+# Week 13
+We are still working on getting the code done and wiring , once done with the wiring we should be good to put the wired breadboard into our prototype for testing. we are constantly making progress and gettign things done.
