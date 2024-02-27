@@ -35,3 +35,8 @@ We laser cutted our pieces out and started to put our box together. We have some
 We are still working on the code side of things, we're almsot fully done with our prototype. We also ran into a problem sort of kinda, we realized that our design is a little bit offset. So we have to make little fixes here and there when we start working on our final build.
 # Week 13
 We are still working on getting the code done and wiring , once done with the wiring we should be good to put the wired breadboard into our prototype for testing. we are constantly making progress and getting things done.
+
+# Week 14 
+This is our final edits on the design we chosed.
+![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/5cb8dc5d-c848-4ddb-b04b-91adf3ccb7e3)
+
