@@ -40,3 +40,7 @@ We are still working on getting the code done and wiring , once done with the wi
 This is our final edits on the design we chose. We had to fix the holes where the wire connects to our arduino in order for it to get plugged in. Weare constanly getting closer to being done with our prototype.
 ![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/5cb8dc5d-c848-4ddb-b04b-91adf3ccb7e3)
 
+# Last Week Of Feb. 
+We spent most of our time working on the code and making changes that had to be changed.
+We decided to focus more on the code so we could be finish with the prototype and make more changes if needed. 
+We struggled a little with making our piezo buzzer stop beeping, and we had to pretty much re-learn the If statement. We also discovered that we had to relocate the holes that we made. 
