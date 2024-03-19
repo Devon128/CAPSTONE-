@@ -52,4 +52,4 @@ Our plans for next week is to finish the code and laser cut our new updated piec
 # Second Week Of March
 We are still working on the code , we must fix it and make final adjustments to it and we should be done. Oh and we also have to  find a way to make space in our box to add a battery to power our arduino. 
 # Third and Forth week of March
-Finished the code , but still are making slight adjusments within it to clean it up a little. We must also measure how much space we have left in our box in order to add a battery and its holder. So far everything is coming along , and we love the progress and new skills we are contantly picking up.
+Finished the code , but still are making slight adjusments within it to clean it up a little. We must also measure how much space we have left in our box in order to add a battery and its holder. So far everything is coming along , and we love the progress and new skills that we're constantly picking up.
