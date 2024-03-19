@@ -45,5 +45,11 @@ We spent most of our time working on the code and making changes that needed to 
 We decided to focus more on the code so we could be finish with the prototype and make more changes if necessary.
 We struggled a little with making our piezo buzzer stop beeping, and we had to pretty much re-learn the If statement. We also discovered that we had to relocate the holes that we made. 
 Our plans for next week is to finish the code and laser cut our new updated pieces.
+
+
+![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/5d0f4ada-0d12-4615-b5a8-2c6c09c7e651)
+
 # Second Week Of March
-We are still working on the code , we musty fix it and make final adjustments to it and we should be done. Oh and we also have to  find a way to make space in our box to add a battery to power our arduino. 
+We are still working on the code , we must fix it and make final adjustments to it and we should be done. Oh and we also have to  find a way to make space in our box to add a battery to power our arduino. 
+# Third and Forth week of March
+Finished the code , but still are making slight adjusments within it to clean it up a little. We must also measure how much space we have left in our box in order to add a battery and its holder. So far everything is coming along , and we love the progress and new skills we are contantly picking up.
