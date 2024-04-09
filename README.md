@@ -37,7 +37,7 @@ We are still working on the code side of things, we're almsot fully done with ou
 We are still working on getting the code done and wiring , once done with the wiring we should be good to put the wired breadboard into our prototype for testing. we are constantly making progress and getting things done.
 
 # Week 14 
-This is our final edits on the design we chose. We had to fix the holes where the wire connects to our arduino in order for it to get plugged in. Weare constanly getting closer to being done with our prototype.
+This is our final edits on the design we chose. We had to fix the holes where the wire connects to our arduino in order for it to get plugged in. We are constanly getting closer to being done with our prototype.
 ![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/5cb8dc5d-c848-4ddb-b04b-91adf3ccb7e3)
 
 # Last Week Of Feb. 
