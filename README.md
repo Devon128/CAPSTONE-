@@ -58,4 +58,4 @@ Finished the code , but still are making slight adjusments within it to clean it
 We're finished with the code side of things. We are still working on getting everything to work with a battery rather than using the cord and plugging it into the computer in order to have power. Then after that we would be completely done with the prototype and fixing up our final adjustments if needed.
 
 # April 17 
- We forgot about one thing and its lazer cutting out our new and improved wall peice.
+ We forgot about one thing and its lazer cutting out our new and improved wall peice. Everything is coming together as planned. We have to finish our 5 min presentation for the UVA students on may 10th.
