@@ -55,7 +55,14 @@ We are still working on the code , we must fix it and make final adjustments to 
 Finished the code , but still are making slight adjusments within it to clean it up a little. We must also measure how much space we have left in our box in order to add a battery and its holder. So far everything is coming along , and we love the progress and new skills that we're constantly picking up.
 
 # April 15 
-We're finished with the code side of things. We are still working on getting everything to work with a battery rather than using the cord and plugging it into the computer in order to have power. Then after that we would be completely done with the prototype and fixing up our final adjustments if needed.
+We're finished with the code side of things. We are still working on getting everything to work with a battery rather than using the cord and plugging it into the computer in order to have power. Then after that we would be completely done with the prototype and fixing up our final adjustments if needed. 
+Code for the buzzer 
+![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/732af0f5-a293-4fe0-99f2-846063ff6980)
+
+sensor code 
+![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/a4ac5131-40b7-4f81-bb14-aab238401412)
+
+
 
 # April 17 
  We forgot about one thing and its lazer cutting out our new and improved wall peice. Everything is coming together as planned. We have to finish our 5 min presentation for the UVA students on may 10th.
