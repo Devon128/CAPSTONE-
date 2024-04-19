@@ -71,3 +71,6 @@ sensor code
 Both codes were combined with one another.
 # April 17 
  We forgot about one thing and its lazer cutting out our new and improved wall peice. Everything is coming together as planned. We have to finish our 5 min presentation for the UVA students on may 10th.
+
+# April 19
+We've been testing the code for 2 weeks. 
