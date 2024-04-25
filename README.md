@@ -70,7 +70,10 @@ sensor code
 ![image](https://github.com/Devon128/CAPSTONE-/assets/71898987/a4ac5131-40b7-4f81-bb14-aab238401412)
 Both codes were combined with one another.
 # April 17 
- We forgot about one thing and its lazer cutting out our new and improved wall peice. Everything is coming together as planned. We have to finish our 5 min presentation for the UVA students on may 10th.
+ We forgot about one thing and its lazer cutting out our new and improved wall peice. Everything is coming together as planned.
 
 # April 19
-We've been testing the code for 2 weeks. 
+We've been testing the code for 2 weeks. It works perfectly , may add a little changes within it just to have a little more spice.
+
+
+
