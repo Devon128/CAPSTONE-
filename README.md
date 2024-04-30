@@ -77,7 +77,7 @@ Both codes were combined with one another.
 We've been testing the code for 2 weeks. It works perfectly , may add a little changes within it just to have a little more spice.
 
 
-
+### picture
 ![IMG_1851 2](https://github.com/Devon128/CAPSTONE-/assets/71345217/791a60a7-7f15-4e38-8107-b4f28413e62d)
-
+### video
 [IMG_18521-ezgif.com-video-to-gif-converter.3.zip](https://github.com/Devon128/CAPSTONE-/files/15149614/IMG_18521-ezgif.com-video-to-gif-converter.3.zip)
