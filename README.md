@@ -81,3 +81,7 @@ We've been testing the code for 2 weeks. It works perfectly , may add a little c
 ![IMG_1851 2](https://github.com/Devon128/CAPSTONE-/assets/71345217/791a60a7-7f15-4e38-8107-b4f28413e62d)
 ### video
 [IMG_18521-ezgif.com-video-to-gif-converter.3.zip](https://github.com/Devon128/CAPSTONE-/files/15149614/IMG_18521-ezgif.com-video-to-gif-converter.3.zip)
+
+
+# May
+we finished everyting , but didn't really have time to test it on the groundhogs, but we  know it will work. This project challenged us in ways we never thought of.One way is creativity. We had many ideas in mind, narrowed those down and picked one and got  to work. Another way was teamwork. This was a project based on teamwork , not leaving or more so having one doing all the work alone. Also time management. That was also being challenged due to the simple fact that capstone is self paced rather than teacher paced. We had a lot of freedom and more time to do whatever but again its all about the mindset and staying focus. But overall it was fun and worth all the time and effort. We definitely struggled  with multiple parts  of this project but we made it through together as a teamm but also asked for help when needed. We re-learned a lot on the coding side of tings but also learned more about groundhogs and khz as well.
